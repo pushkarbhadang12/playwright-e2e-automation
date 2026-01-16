@@ -1,6 +1,6 @@
 import { test as teardown } from "../src/config/baseTest";
 import Log from "../src/config/logger";
-import LoginPage from "../src/pages/loginPage";
+import LoginPage from "../src/pages/LoginPage";
 import MyAccountPage from "../src/pages/MyAccountPage";
 
 teardown('Global Teardown after all tests', async ({ page }) => {
