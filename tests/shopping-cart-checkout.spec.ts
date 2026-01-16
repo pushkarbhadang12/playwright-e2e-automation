@@ -2,7 +2,7 @@ import { test } from "../src/config/baseTest";
 import { expect } from "@playwright/test";
 import MyAccountPage from "../src/pages/MyAccountPage";
 import ShoppingCartPage from "../src/pages/ShoppingCartPage";
-import CheckoutConfirmationPage from "../src/pages/checkoutConfirmationPage";
+import CheckoutConfirmationPage from "../src/pages/CheckoutConfirmationPage";
 import Log from "../src/config/logger";
 
 const baseURL = process.env.Base_URL;
