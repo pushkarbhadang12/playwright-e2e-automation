@@ -1,0 +1,14 @@
+[
+ {
+	 "ExecutionFlag":"Yes",
+	 "TestCaseId":"TC001",
+	 "Username":"pushkar1.bhadang@gmail.com",
+	 "Password": "Test@1234"
+ },
+ {
+	 "ExecutionFlag":"Yes",
+	 "TestCaseId":"TC002",
+	 "Username":"pushkar2.bhadang@gmail.com",
+	 "Password": "Test@1234"
+ }	 
+]
